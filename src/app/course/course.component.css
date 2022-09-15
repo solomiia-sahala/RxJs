@@ -1,0 +1,20 @@
+.course-item {
+  height: 180px;
+  width: 430px;
+  background-color: lightgrey;
+  text-align: center;
+  margin: 20px 10px;
+}
+
+h1 {
+  font-size: 30px;
+  padding: 10px;
+}
+
+span{
+  text-shadow: 1px 1px #967E76
+}
+
+div > div {
+  padding-top: 12px;
+}

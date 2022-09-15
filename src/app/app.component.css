@@ -1,0 +1,31 @@
+h1 {
+  color: white;
+  text-align: center;
+  margin: 35px 0;
+  text-shadow: 2px 2px 5px #967E76;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button {
+  height: 50px;
+  width: 140px;
+  background-color: #D7C0AE;
+  border: 2px solid #967E76;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.courses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
